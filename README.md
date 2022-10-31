@@ -8,3 +8,4 @@
 | 1832 - Check if the Sentence Is Pangram | String, array/vector | [Use a vector / an array to store the frequency of each letter.](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/1832%20-%20Check%20if%20the%20Sentence%20Is%20Pangram%20.cpp) |
 | 11 - Container with Most Water | Array/Vector | [2 pointers, move one of the pointers pointing to the lower value.](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/11%20-%20Container%20with%20Most%20Water.cpp) |
 | 1662 - Check If Two String Arrays are Equivalent | strings | [concatenate strings. Use compare().](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent) |
+| 766 - Toeplitz Matrix | Array | [Iterate through the 2D array. Check if matrix[i-1][j-1] != matrix[i][j].](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/766%20-%20Toeplitz%20Matrix) |
