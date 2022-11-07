@@ -11,3 +11,4 @@
 | 766 - Toeplitz Matrix | Array | [Iterate through the 2D array. Check if matrix[i-1][j-1] != matrix[i][j].](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/766%20-%20Toeplitz%20Matrix) |
 | 1706 - Where Will the Ball Fall | Array, DFS, Simulation | [Use DFS. Check if we reach a V or a wall. We get the next column of a ball thanks to the values of grid.](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/1706%20-%20Where%20Will%20the%20Ball%20Fall.cpp) |
 | 345 - Reverse vowels of a string | String, 2 pointers | [Use 2 pointers to swap vowels.](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/345%20-%20Reverse%20Vowels%20of%20a%20String.cpp) |
+| 1323 - Maximum 69 Number | array/vector, loop | [Convert the number in an array of its digits and reverse the array, then find the first 6 (from the left).](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/1323%20-%20Maximum%2069%20Number.cpp) |
