@@ -13,3 +13,4 @@
 | 345 - Reverse vowels of a string | String, 2 pointers | [Use 2 pointers to swap vowels.](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/345%20-%20Reverse%20Vowels%20of%20a%20String.cpp) |
 | 1323 - Maximum 69 Number | array/vector, loop | [Convert the number in an array of its digits and reverse the array, then find the first 6 (from the left).](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/1323%20-%20Maximum%2069%20Number.cpp) |
 | 1544 - Make The String Great | String | [Check if s is string which has more than 1 character. Then compare the absolute value.](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/1544%20-%20Make%20The%20String%20Great.cpp) |
+| 2089 - Find Target Indices After Sorting Array | Array, sort | [Iterate over the vector and compare each value with target.](https://github.com/LucasColas/Leetcode-solutions-Cpp/blob/main/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.cpp)|
